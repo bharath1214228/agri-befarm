@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	F4P8D.qH3LxZhxqbQoaTZity__uPG8JRAce3_V1F2LE-1666880671-0-AYBlwMlmoQFpwYmEsEcVh9sfELgTI1X91k/01wQGq+W/08o7+IZtQs9Wb0m3bLg7M7sh9YiZrCjb8iwsKfumjAc=
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+
